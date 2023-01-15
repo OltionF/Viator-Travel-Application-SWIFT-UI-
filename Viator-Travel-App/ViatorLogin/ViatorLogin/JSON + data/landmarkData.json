@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Berlin",
+        "category": "Urban",
+        "city": "Berlin",
+        "country": "Germany",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Capital and largest city of Germany by both area and population.",
+        "coordinates": {
+            "longitude": 13.4050,
+            "latitude": 52.5200
+        },
+        "description": "Berlin, capital and chief urban centre of Germany. The city lies at the heart of the North German Plain, athwart an east-west commercial and geographic axis that helped make it the capital of the kingdom of Prussia and then, from 1871, of a unified Germany. Berlin’s former glory ended in 1945, but the city survived the destruction of World War II. It was rebuilt and came to show amazing economic and cultural growth.",
+        "imageName": "berlin-3"
+    },
+    {
+        "name": "Colosseum",
+        "category": "Cultural",
+        "city": "Rome",
+        "country": "Italy",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Ancient amphitheatre",
+        "coordinates": {
+            "longitude": 12.4922,
+            "latitude": 41.8902
+        },
+        "description": "The Colosseum is an oval amphitheatre in the centre of the city of Rome, Italy, just east of the Roman Forum. It is the largest ancient amphitheatre ever built, and is still the largest standing amphitheatre in the world today, despite its age.",
+        "imageName": "rome-colosseum-2"
+    },
+    {
+        "name": "Louvre Museum",
+        "category": "Urban",
+        "city": "Paris",
+        "country": "France",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Musée du Louvre",
+        "coordinates": {
+            "longitude": 2.3376,
+            "latitude": 48.8606
+        },
+        "description": "Louvre, in full Louvre Museum or French Musée du Louvre, official name Great Louvre or French Grand Louvre, national museum and art gallery of France, housed in part of a large palace in Paris that was built on the right-bank site of the 12th-century fortress of Philip Augustus. It is the world’s most-visited art museum, with a collection that spans work from ancient civilizations to the mid-19th century.",
+        "imageName": "paris-louvre-3"
+    },
+    {
+        "name": "Taj Mahal",
+        "category": "Cultural",
+        "city": "Agra",
+        "country": "India",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Ivory-white marble mausoleum in the Indian city of Agra",
+        "coordinates": {
+            "longitude": 78.0421,
+            "latitude": 27.1751
+        },
+        "description": "The Taj Mahal is located on the right bank of the Yamuna River in a vast Mughal garden that encompasses nearly 17 hectares, in the Agra District in Uttar Pradesh. It was built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal with construction starting in 1632 AD and completed in 1648 AD, with the mosque, the guest house and the main gateway on the south, the outer courtyard and its cloisters were added subsequently and completed in 1653 AD. The existence of several historical and Quaranic inscriptions in Arabic script have facilitated setting the chronology of Taj Mahal. For its construction, masons, stone-cutters, inlayers, carvers, painters, calligraphers, dome builders and other artisans were requisitioned from the whole of the empire and also from the Central Asia and Iran. Ustad-Ahmad Lahori was the main architect of the Taj Mahal.",
+        "imageName": "taj-mahal"
+    },
+    {
+        "name": "Rovinj",
+        "category": "Coastal",
+        "city": "Rovinj",
+        "country": "Croatia",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Croatian fishing port on the west coast of the Istrian peninsula",
+        "coordinates": {
+            "longitude": 13.6387,
+            "latitude": 45.0812
+        },
+        "description": "The old town stands on a headland, with houses tightly crowded down to the seafront. A tangle of cobbled streets leads to the hilltop church of St. Euphemia, whose towering steeple dominates the skyline. South of the old town is Lone Bay, one of the area’s pebble beaches. The Rovinj archipelago’s 14 islands lie immediately off the mainland.",
+        "imageName": "rovinj-3",
+    },
+    {
+        "name": "Bali",
+        "category": "Coastal",
+        "city": "Bali",
+        "country": "Indonesia",
+        "id": 1008,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Province of Indonesia and the westernmost of the Lesser Sunda Islands",
+        "coordinates": {
+            "longitude": 115.1889,
+            "latitude": -8.4095
+        },
+        "description": "Also known as the Land of the Gods, Bali appeals through its sheer natural beauty of looming volcanoes and lush terraced rice fields that exude peace and serenity. It is also famous for surfers’ paradise! Bali enchants with its dramatic dances and colorful ceremonies, its arts, and crafts, to its luxurious beach resorts and exciting nightlife. And everywhere, you will find intricately carved temples.",
+        "imageName": "bali-2",
+    },
+    {
+        "name": "Abu Simbel",
+        "category": "Cultural",
+        "city": "Aswan Governorate",
+        "country": "Egypt",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Abu Simbel, Aswan Governorate, Egypt",
+        "coordinates": {
+            "longitude": 31.6258,
+            "latitude": 22.3372
+        },
+        "description": "Abu Simbel, site of two temples built by the Egyptian king Ramses II (reigned 1279–13 BCE), now located in Aswān muḥāfaẓah (governorate), southern Egypt. In ancient times the area was at the southern frontier of pharaonic Egypt, facing Nubia. The four colossal statues of Ramses in front of the main temple are spectacular examples of ancient Egyptian art. By means of a complex engineering feat in the 1960s, the temples were salvaged from the rising waters of the Nile River caused by erection of the Aswan High Dam.",
+        "imageName": "abu-simbel"
+    },
+    {
+        "name": "Eiffel Tower",
+        "category": "Urban",
+        "city": "Paris",
+        "country": "France",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Paris Tourist Attraction",
+        "coordinates": {
+            "longitude": 2.2945,
+            "latitude": 48.8584
+        },
+        "description": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower. Locally nicknamed 'La dame de fer', it was constructed from 1887 to 1889 as the centerpiece of the 1889 World's Fair and was initially criticized by some of France's leading artists and intellectuals for its design, but it has become a global cultural icon of France and one of the most recognizable structures in the world.",
+        "imageName": "paris-eiffeltower-2"
+    },
+    {
+        "name": "Railay Beach",
+        "category": "Coastal",
+        "city": "Krabi",
+        "country": "Thailand",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Small peninsula between the city of Krabi and Ao Nang in Thailand",
+        "coordinates": {
+            "longitude": 98.8378,
+            "latitude": 8.0117
+        },
+        "description": "Railay Beach in Krabi is located on the Railay Peninsula of the same name and is certainly one of the most spectacular places in all of Thailand. This paradise is especially famous for its imposing limestone cliffs, which together with the turquoise sea, the tall palm trees and the powder-sugar fine white sandy beaches conjure up a true picture-postcard setting. In addition, unforgettable activities and incredibly beautiful attractions await you during a visit on Railay Beach. Climbing, kayaking, snorkeling, hiking and of course swimming at Thailand’s most beautiful beaches are just some of the best things to do. Although the peninsula is no longer an insider tip, Railay Beach is absolutely legendary and a visit is a real must on any trip to Krabi.",
+        "imageName": "railay-beach-1"
+    }
+]
