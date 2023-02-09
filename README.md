@@ -1,7 +1,5 @@
 # Viator-Travel-Application-SWIFT-UI-
-Developed with SwiftUI
-
-[![Swift]
+Developed with SwiftUI for a university project.
 
 <!-- TABLE OF CONTENTS -->
 <details>
