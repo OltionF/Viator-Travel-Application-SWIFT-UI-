@@ -54,7 +54,7 @@ Project is: _done_
 
 <!-- contact -->
 ## Contact
-Created by [Oltion] - feel free to contact me!
+Created by [OltionF] - feel free to contact me!
 <p align="right">
 
 <!-- app-screenshots -->
