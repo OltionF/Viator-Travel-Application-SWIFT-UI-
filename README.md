@@ -1,7 +1,7 @@
 # Viator-Travel-Application-SWIFT-UI-
 Developed with SwiftUI
 
-[![Swift][SwiftUI][Firebase]
+[![Swift][SwiftUI]][Firebase]]
 
 <!-- TABLE OF CONTENTS -->
 <details>
